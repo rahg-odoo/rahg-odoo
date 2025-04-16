@@ -1,4 +1,4 @@
-LOL
+Hey! I'm Rahil Ghanchi.
 
 <!---
 rahg-odoo/rahg-odoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
